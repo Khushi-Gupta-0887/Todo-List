@@ -1,0 +1,10 @@
+Todo list
+list -
+ to shows all todos
+add-
+to add todos
+delete-
+to remove a task
+quit-
+to exit a todo 
+
